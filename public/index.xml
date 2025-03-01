@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>c10r4n</title><link>https:sebastiansherrah.github.io</link><description>Recent content on c10r4n</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</managingEditor><webMaster>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</webMaster><copyright>© 2025 Sebastian Sherrah</copyright><lastBuildDate>Sat, 01 Mar 2025 00:39:36 +0100</lastBuildDate><atom:link href="https:sebastiansherrah.github.ioindex.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https:sebastiansherrah.github.ioabout/</link><pubDate>Sat, 01 Mar 2025 00:39:36 +0100</pubDate><author>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</author><guid>https:sebastiansherrah.github.ioabout/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c10r4n</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on c10r4n</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</managingEditor>
+    <webMaster>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</webMaster>
+    <copyright>© 2025 Sebastian Sherrah</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 00:39:36 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 01 Mar 2025 00:39:36 +0100</pubDate>
+      <author>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</author>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

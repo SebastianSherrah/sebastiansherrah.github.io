@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on c10r4n</title><link>https:sebastiansherrah.github.ioauthors/</link><description>Recent content in Authors on c10r4n</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</managingEditor><webMaster>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</webMaster><copyright>© 2025 Sebastian Sherrah</copyright><atom:link href="https:sebastiansherrah.github.ioauthors/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on c10r4n</title>
+    <link>//localhost:1313/authors/</link>
+    <description>Recent content in Authors on c10r4n</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</managingEditor>
+    <webMaster>sebastian.edward.sherrah@univie.ac.at (Sebastian Sherrah)</webMaster>
+    <copyright>© 2025 Sebastian Sherrah</copyright>
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
