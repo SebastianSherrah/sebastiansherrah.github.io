@@ -4,7 +4,7 @@ draft = false
 title = 'About'
 +++
 
-Welcome to my website! My name is Sebastian Sherrah, and I am doctoral student at the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) within the University of Vienna. 
+Welcome to my website! My name is Sebastian Sherrah, and I am a PhD student at the [Computational Communication Science Lab](https://compcommlab.univie.ac.at/) within the University of Vienna. 
 
 My research explores two primary areas: firstly, the influence of narrative structures on human perception and understanding; and secondly, what 'truth' means - because we shouldn't let the truth get in the way of a good story. On the technical side, my methodological interests centre around computational linguistics, particularly natural language processing, large language models, and their development. 
 
