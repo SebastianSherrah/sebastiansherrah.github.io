@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "c10r4n"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Sebastian Sherrah"
+email = "sebastian.edward.sherrah@univie.ac.at"
+image = "pfp_web.jpeg"
+#   imageQuality = 96
+headline = "Doctoral candidate at the University of Vienna"
+# bio = "A little bit about you"
+ links = [
+   { email = "mailto:sebastian.edward.sherrah@univie.ac.at" },
+    { bluesky = "https://bsky.app/profile/c10r4n.bsky.social" },
+     { github = "https://github.com/SebastianSherrah" },
+     { orcid = "https://orcid.org/0009-0004-1507-9433 " },
+   ]
