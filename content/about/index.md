@@ -12,4 +12,4 @@ On the methodological side, my interests span computational approaches to commun
 
 When I have free time, I enjoy gambling for chairs.
 
-If any of these things interest you, or you have something that might interest me (such as chairs) please feel free to get in touch. The method is up to you!
+If any of these things interest you, or you have something that might interest me (such as chairs) please feel free to get in touch. The medium is up to you!
